@@ -1,0 +1,37 @@
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Caveat', cursive;
+}
+
+h2{
+	font-size: 40px;
+	font-family: 'Caveat', cursive;
+}
+
+div{
+	font-family: 'Caveat1', cursive;
+	font-size: 30px;
+	color: #28020c;
+}
+
+
+p{
+	text-align: justify;
+	font-size: 23px;
+	font-family: 'Caveat1', cursive;
+}
+
+ul{
+	font-size: 23px;
+	font-family: 'Caveat1', cursive;
+}
+
+.rectangle{
+width: 46%;
+height: 40px;
+border-radius: 40%;
+margin: auto;
+background: #e96083;
+text-align: center;
+}
