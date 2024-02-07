@@ -31,8 +31,8 @@ ul{
 .ph{
 	border-radius: 20px;
 	box-shadow: -12px 8px 51px -12px #F3459F;
-	width: 20%;
-	height: 25%;
+	width: 35px;
+	height: 25px;
 }
 
 .block1{
@@ -67,4 +67,15 @@ h3{
 	border-width: 6px;
 	background-color: rgba(181, 129, 255, 0.2);
 	padding: 30px;
+}
+
+ul{
+	list-style-type: square;
+	color: blue;
+	transform: rotate(45deg);
+	transform-origin: bottom left;
+}
+
+ol{
+	list-style-type: lower-greek;
 }
